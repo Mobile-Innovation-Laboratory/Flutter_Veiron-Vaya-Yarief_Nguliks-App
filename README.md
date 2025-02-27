@@ -1,4 +1,4 @@
-# NGULIKS-APP 🎶 
+# NGULIKS 🎶 
 
 ## Deskripsi
 Aplikasi yang berfokus pada pencatatan musik dan bagaimana memainkannya bagi para **music enthusiast** yang berfokus pada simplisitas dan kemudahan navigasi serta **core** musik yaitu **progresi chord** dengan **utilisasi font** yang sangat mendukung pembacaan dan pemahaman terhadap angka **romawi**. Dengan harapan scale-up ingin menjadikannya **GitHub** bagi para **music enthusiast**. 🎵🎶🎹🎸🎻🎶🎵
