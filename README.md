@@ -1,4 +1,4 @@
-# NGULIKS-APP 🎶 by Veiron Vaya Yarief
+# NGULIKS-APP 🎶 
 
 ## Deskripsi
 Aplikasi yang berfokus pada pencatatan musik dan bagaimana memainkannya bagi para **music enthusiast** yang berfokus pada simplisitas dan kemudahan navigasi serta **core** musik yaitu **progresi chord** dengan **utilisasi font** yang sangat mendukung pembacaan dan pemahaman terhadap angka **romawi**. Dengan harapan scale-up ingin menjadikannya **GitHub** bagi para **music enthusiast**. 🎵🎶🎹🎸🎻🎶🎵
@@ -24,7 +24,7 @@ NOTE: Fitur **4,5,6,7** merupakan **CRUD**
 - Ketuk profil `Di atas halaman` pada halaman pertama **HOME** `Halaman yang berisi list of songs` untuk melihat profil. 
 - Ketuk tombol logout untuk keluar dari akun dan mengulang aplikasi.
 
-## Screenshot
+
 ## Screenshot
 <img src="https://github.com/user-attachments/assets/4a489282-bbf9-4db0-bb0b-ee7979102786" width="400">
 <img src="https://github.com/user-attachments/assets/1d3e3ae5-8180-4c44-bb6a-0763af114eda" width="400">
@@ -52,6 +52,10 @@ NOTE: Fitur **4,5,6,7** merupakan **CRUD**
 <img src="https://github.com/user-attachments/assets/c1711a36-4ffb-4916-ac6d-174e67b57a40" width="400">
 <img src="https://github.com/user-attachments/assets/49b7d732-a183-4de7-a01e-3e1637e81d96" width="400">
 <img src="https://github.com/user-attachments/assets/dd2ac67f-ca0d-47cd-98fa-39d8250c27a2" width="400">
+
+## Credits
+App by Veiron Vaya Yarief
+
 
 
 
